@@ -15,3 +15,4 @@ module.exports = {
 // const database = await dbo.getDatabase();
 // const collection = await database.collection("data");
 // await collection.insertOne({ name: "hiii" });
+// duplicate file for mongodb 
