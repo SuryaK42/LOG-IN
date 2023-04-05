@@ -21,8 +21,8 @@ schema
   .not()
   .spaces();
 
-router.get("/kadar", (req, res) => {
-  res.json({ name: "suryakadhaaaaaaaaaaaaaaaaaaaaaa" });
+router.get("/dummyData", (req, res) => {
+  res.json({ name: "surya" });
 });
 
 router.post("/register", async (req, res) => {
